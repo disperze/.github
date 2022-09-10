@@ -1,4 +1,4 @@
-### Active Networks
+### Main Networks
 
 |Juno | Evmos |
 |-|-|
