@@ -1,4 +1,4 @@
-### Main Networks
+### Mainnet
 
 |Juno | Evmos |
 |-|-|
